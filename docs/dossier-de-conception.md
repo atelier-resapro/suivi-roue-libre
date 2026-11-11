@@ -16,4 +16,6 @@ Notre réponse au cahier des charges. Chaque partie se remplit au fil du projet.
 
 ## 5. Maquettes et prototype
 
+Prototype : https://www.figma.com/proto/wDJkXHKjMAYWCTy59r9tE2/Suivi-Roue-Libre
+
 ## 6. Choix techniques
